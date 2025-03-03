@@ -1,7 +1,7 @@
 ## :jack_o_lantern: Hello :jack_o_lantern:
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning `Node`, `ReactJS` and `Python`.
+- 🌱 I’m currently learning `Node` and `ReactJS`.
 - 👯 I’m looking to collaborate on FrontEnd Apps.
 - 💬 Ask me about `Unity` and `JavaScript`.
 - 😄 Pronouns: her/hers.
