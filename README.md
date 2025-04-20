@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning `Data Science` and `Machine Learning`.
 - 👯 I’m looking to collaborate on Backend projects.
-- 💬 Ask me about `Unity` and `JavaScript`.
+- 💬 Ask me about `Python` and `JavaScript`.
 - 😄 Pronouns: her/hers.
 - ⚡ Fun fact: I love cats!
 
