@@ -26,7 +26,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=marcelymelo&theme=transparent)](https://git.io/streak-stats)
 
 ## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=transparent)](https://github.com/MarcelyMelo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
 
 ##
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelymelo)](https://github.com/marcelymelo/github-readme-stats) -->
