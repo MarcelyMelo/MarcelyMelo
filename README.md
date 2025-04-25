@@ -23,7 +23,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelyMelo&show_icons=true&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcelyMelo&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcelymelo&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
+
+
 ## Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcelyMelo&theme=darkhub)](https://github.com/MarcelyMelo/github-profile-trophy)
 
